@@ -1,0 +1,18 @@
+.about{
+    background-color: transparent;
+    width: 100%;
+    height: auto;
+}
+
+.abntitle{
+    color: rgb(46, 46, 111);
+    font-weight: 700;
+
+}
+
+.abcont{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+    text-shadow: 1px 1px 1px silver;
+}

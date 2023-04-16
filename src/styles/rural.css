@@ -1,0 +1,32 @@
+.kon-box{
+    background-color: #FFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: auto;
+    margin : 0px;
+    padding: 0px;
+}
+.kon{
+    width: 100%;
+    margin : 0px;
+    padding : 0px;
+}
+
+
+.rural-img{
+    height: 300px;
+}
+
+.rural-head{
+    color: rgb(5, 5, 77);
+    font-weight: 800;
+} 
+
+.kon-head{
+    color: rgb(5, 5, 77);
+    font-weight: 700;
+}
+
+.kon-text{
+    color: black;
+    font-weight: 700;
+}

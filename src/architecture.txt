@@ -1,0 +1,34 @@
+ Konaseema touring
+
+
+ Frontend :
+
+   ->navbar
+     -> navbar contents ->
+                        Home
+                        About
+                        Places
+                        Location
+                        Login 
+                        Sign Up
+
+  -> Main
+      -> Caurosels
+      -> Sections of beautiful places
+      -> Contact us
+
+   -> Places
+        -> local views
+        -> river views
+        -> famous temples in Konaseema
+
+    -> About
+        -> About Konaseema  
+
+ Backend :
+
+      -> connect to mongodb 
+      -> create rest api all required data
+      -> fetch to frontend       
+
+           

@@ -1,0 +1,41 @@
+.place{
+    width: 100%;
+    height: auto;
+    background-color: #FFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.rjytext{
+    font-size: 20px;
+}
+
+.rjy{
+    height: 400px;
+}
+
+.placehead{
+    color: rgb(5, 5, 77);
+    font-weight: 800;
+}
+
+.place1{
+    color: black;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 400px){
+    .rjytext{
+        font-size: 10px;
+       
+    }
+    
+    .rjy{
+        height: 250px;
+    }
+    .placehead{
+        font-size: 30px;
+    }
+    
+}

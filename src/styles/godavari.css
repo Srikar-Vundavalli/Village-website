@@ -1,0 +1,26 @@
+.god-img{
+    height: 400px;
+}
+
+.godavar{
+    height: auto;
+    width: 100%;
+    background-color: #FFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.god-head{
+    color: rgb(5, 5, 77);
+    font-weight: 800;
+}
+
+.god-text{
+    color: black;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 400px){
+    .god-img{
+        height: 300px;
+    }
+}

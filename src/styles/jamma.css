@@ -1,0 +1,15 @@
+
+
+.jekka{
+    height: 500px;
+
+}
+
+
+
+
+@media only screen and (max-width: 400px){
+   .jekka{
+    height : 250px;
+   }
+}
